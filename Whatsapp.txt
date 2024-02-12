@@ -9,3 +9,5 @@ THIS IS WHATA APP CODE:
 4. Attachment (Audio, Video, Image)
 
 5. Adding Document File Code
+
+6. Hiding Last Secn
