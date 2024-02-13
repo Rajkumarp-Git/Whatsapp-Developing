@@ -6,7 +6,7 @@ THIS IS WHATA APP CODE:
 
 3. Last Screen Code
 
-4. Attachment (Audio, Video, Image)
+4. Attachment (Audio, Video, Image, Documents)
 
 5. Adding Document File Code
 
